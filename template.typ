@@ -9,6 +9,8 @@
     logo: none,
     //footer
     footer: none,
+    //abstract of the document 
+    abstract: none,
     //body
     body
 ) = {
